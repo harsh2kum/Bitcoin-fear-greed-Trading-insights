@@ -75,7 +75,7 @@ ds_harsh_kumar/
 Run this project using **Google Colab** or local Python.
 
 ### Libraries Used
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - matplotlib
@@ -83,7 +83,7 @@ Run this project using **Google Colab** or local Python.
 ---
 
 ## ▶️ How to Run
-1. Open `notebook_1.ipynb` in Google Colab
+1. Open `notebook_1.ipynb` 
 2. Upload datasets into:
 3. Run all cells in order
 4. Output charts will be saved in:
@@ -110,3 +110,4 @@ The notebook generates the following charts:
 
 ## 👤 Author
 **Harsh Kumar**
+
