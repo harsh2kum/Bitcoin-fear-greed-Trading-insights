@@ -111,6 +111,14 @@ The notebook generates the following charts:
 ---
 
 ## 👤 Author
-**Harsh Kumar**
+**Harsh Kumar**  
+📧 Email: harshkumar04510@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/harshku/
+
+
+## 🔗 Google Colab Notebook Link
+
+[Open Notebook in Google Colab](https://drive.google.com/file/d/1z-o3XxOq7PbgSJEYjk779WAvT0b-Sh7Q/view?usp=sharing)
+
 
 
