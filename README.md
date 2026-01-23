@@ -75,7 +75,7 @@ ds_harsh_kumar/
 Run this project using **Google Colab** or local Python.
 
 ### Libraries Used
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - matplotlib
@@ -83,7 +83,7 @@ Run this project using **Google Colab** or local Python.
 ---
 
 ## ▶️ How to Run
-1. Open `notebook_1.ipynb` in Google Colab
+1. Open `notebook_1.ipynb` 
 2. Upload datasets into:
 3. Run all cells in order
 4. Output charts will be saved in:
@@ -91,11 +91,13 @@ Run this project using **Google Colab** or local Python.
 
 ---
 
-## 📊 Key Insights (Summary)
-- Trading activity (volume + trades) is slightly higher during **Fear** periods.
-- Profitability (PnL) is highest during **Fear**, while **Extreme Fear** shows low profits.
-- Win rate is highest in **Greed**, but higher win rate does not always mean higher profit.
-- Average trade size increases during **Extreme Greed**, showing higher risk-taking.
+## ✅ Key Insights & Conclusion
+
+1. **Market sentiment vs volume:** Trading volume increases when Fear-Greed index is higher (Greed phases).
+2. **Market sentiment vs profitability:** Daily PnL shows mixed behavior, indicating sentiment alone is not enough to predict profit.
+3. **Win rate changes by sentiment:** Average win rate differs across sentiment classes, suggesting strategy should adapt based on market mood.
+4. **Risk increases in extreme sentiment:** PnL volatility increases during extreme Fear/Greed periods, indicating higher uncertainty.
+5. **Actionable signal:** Combine sentiment with trade volume + win rate trend for better decision-making instead of using sentiment alone.
 
 ---
 
@@ -110,3 +112,5 @@ The notebook generates the following charts:
 
 ## 👤 Author
 **Harsh Kumar**
+
+
